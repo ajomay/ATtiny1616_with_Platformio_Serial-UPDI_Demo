@@ -31,7 +31,7 @@ Set up an ATtiny1616 on a breadboard:
 
 [ATtin1616 Mouser #556-ATTINY1616SNR](https://www.mouser.de/ProductDetail/Microchip-Technology/ATTINY1616-SNR?qs=HXFqYaX1Q2w711d4DTfCdw%3D%3D)
 
-[SOIC Adapter Mouser #535-LCQT-SOIC20W](https://www.mouser.de/ProductDetail/Aries-Electronics/LCQT-SOIC20W?qs=%252Bfs1VP4DyWnlYvmnEUJ%252BBw%3D%3D)
+[Adapter SOP20 zu DIP20 1,27mm AMAZON](https://www.amazon.de/TSSOP20-Transfer-Adapter-TSSOP-20-SSOP-20/dp/B0C74Y8ZLK/ref=sr_1_8?crid=300ZQC9500VQ6&dib=eyJ2IjoiMSJ9.OM0KHObpSoN3tIzCgGoFp6HTVHn4S5AggmIbG0MeBrwdQJCkiLQ-_oJBvSpRY3EcekJ0ABd_p6Sn4IKZ82rWUg0AxYvt2-p_7DlH8s2AeWZnSKqUH3r7yj38yXNisfZ1aIIzDBOROrhCfCyOewWfr1jDu1-ElZanqL70JbITquy1Q64BkN1BpsKPiT5H6lkZwxoxekS492dartP0meOq9AtrXFN_8CMqfsBoXpC83Mm30Lis6Q6dGzkjE-cRSCe8O8jShqbatLsUDiN-dPb7lmaOkm3Dk8rmIw2buDnP5E0.8hEacro1iWInk9tU2EhQXxgdcX_JlG5qeM6EFJqoQ4I&dib_tag=se&keywords=sop20+adapter&qid=1716382191&sprefix=sop20%2Caps%2C102&sr=8-8)
 
 [FT232-AZ USB to TTL Serial Adapter AZ-Delivery](https://www.az-delivery.de/products/ftdi-adapter-ft232rl)
 
