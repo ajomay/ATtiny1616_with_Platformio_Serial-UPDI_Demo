@@ -18,7 +18,14 @@ The example works with PlatformIo and demonstrates the configuration of the seri
 ### Hardware
 This example works with the hardware variants described here. 
 
-####  Variant 1
+#### Variant 1 - Use Breadboard
+
+
+Set up 
+[this circuit](https://github.com/ajomay/ATtiny1616_with_Platformio_Serial-UPDI_Demo/blob/main/Hardware/BreadboardCircuit.jpg)
+on a breadboard.
+
+####  Variant 2 - Use DevBoard
 A suitable example board is the [ATtiny x06/x16/x26 Development Board v2](https://github.com/wagiminator/AVR-Development-Boards/tree/master/ATtiny3216_DevBoard_v2)
 by Stefan Wagner "wagiminator" on GitHub.
 
